@@ -8,6 +8,8 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.14.4",
     "react": "^16.5.2",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-animated-css": "^1.0.4",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
   },

@@ -1,7 +1,8 @@
 import React, { Component, Fragment } from 'react';
 import './App.css';
-import Navigation from './components/Navigation/Navigation';
-import Header from './components/Header/Header';
+import Navigation from '../Navigation/Navigation';
+import Header from '../Header/Header';
+import About from '../About/About';
 
 class App extends Component {
   render() {
@@ -9,6 +10,7 @@ class App extends Component {
       <Fragment>
         <Navigation />
         <Header />
+        <About />
       </Fragment>
     );
   }

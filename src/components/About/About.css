@@ -1,0 +1,42 @@
+#about {
+  margin: 5vh auto;
+  height: 30vh;
+}
+
+#about img{
+  margin: 3em 0;
+}
+
+#about h2{
+  text-transform: uppercase;
+  color: #682c86;
+}
+
+#about hr {
+  color: #5ab366;
+  border-width: 0.3em;
+}
+
+.about-text {
+  display: block;
+}
+
+.button-container{
+  margin-top: 3em;
+}
+
+.cv-button {
+  border-radius: 5px;
+  padding: 12px 28px;
+  font-size: 1em;
+  background-color: #5ab366;
+  color: #ffffff;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.cv-button:hover {
+  background-color: #682c86;
+  color: #ffffff;
+  text-decoration: none;
+}
