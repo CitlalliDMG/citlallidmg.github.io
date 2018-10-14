@@ -1,0 +1,36 @@
+.intro {
+  padding-top: 65px;
+  background-color: purple;
+}
+
+.row {
+  padding: 100px 0;
+  text-align: center;
+  /* text-transform: uppercase; */
+  height: auto;
+  color: #fff;
+}
+
+.intro h1 {
+  font-size: 5em;
+}
+
+.intro p {
+  font-size: 1.5em;
+}
+
+/* .intro {
+  max-width: 100%;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+  background: url(../../assets/header_image.jpg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+} */
