@@ -3,6 +3,7 @@ import './App.css';
 import Navigation from '../Navigation/Navigation';
 import Header from '../Header/Header';
 import About from '../About/About';
+import Footer from '../Footer/Footer';
 
 class App extends Component {
   render() {
@@ -11,6 +12,10 @@ class App extends Component {
         <Navigation />
         <Header />
         <About />
+        {/* <Work />
+        <Skills />
+        <Contact /> */}
+        <Footer />
       </Fragment>
     );
   }
