@@ -5,6 +5,7 @@ import Header from '../Header/Header';
 import About from '../About/About';
 import Footer from '../Footer/Footer';
 import Work from '../Work/Work';
+import Contact from '../Contact/Contact';
 
 class App extends Component {
   render() {
@@ -14,8 +15,8 @@ class App extends Component {
         <Header />
         <About />
         <Work />
-        {/* <Skills />
-        <Contact /> */}
+        {/* <Skills /> */}
+        <Contact />
         <Footer />
       </Fragment>
     );
