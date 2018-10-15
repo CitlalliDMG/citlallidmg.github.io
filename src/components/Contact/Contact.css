@@ -1,0 +1,35 @@
+.contact {
+  height: auto;
+  background-color: #5ab366;
+  margin-bottom: 60px;
+  padding-bottom: 1em;
+}
+
+.contact h2 {
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-top: 1em;
+}
+
+.contact hr{
+  border-width: 0.3em;
+  width: 50%;
+  border-color: #ffffff;
+}
+
+.icons a{
+  color:#ffffff;
+}
+
+.icons a:hover {
+  color: #682c86;
+}
+
+.icons i {
+  padding-left: 0.5em;
+  font-size: 2em;
+}
+
+.contact-text{
+  color: #ffffff;
+}
