@@ -1,0 +1,115 @@
+.work {
+  height: auto;
+  margin-bottom: 60px;
+}
+
+.work h2 {
+  text-transform: uppercase;
+  color: #682c86;
+  text-align: center;
+}
+
+.work hr{
+  border-width: 0.3em;
+}
+
+div.gallery{
+  border: 1px solid #ffffff;
+  margin-bottom: 1em;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 33.333333%;
+  position: relative;
+  text-align: center;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5 ease;
+  opacity: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.responsive:hover .image {
+  opacity: 0.3;
+}
+
+.responsive:hover .middle {
+  opacity: 1;
+}
+
+.project-info{
+  height: 10em;
+}
+
+.project-title {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #5ab366;
+  margin-bottom: 0;
+}
+
+.project-description {
+  white-space: pre-wrap;
+  padding: 0 2em;
+}
+
+.italic{
+  font-style: italic;
+  color: #682c86;
+}
+.link {
+  background-color: #5ab366;
+  color: #ffffff;
+  font-size: 1em;
+  padding: 12px 28px;
+  display: block;
+  margin-bottom: 1em;
+  border-radius: 5px;
+}
+
+.link:hover{
+  background-color: #682c86;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 992px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .responsive{
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

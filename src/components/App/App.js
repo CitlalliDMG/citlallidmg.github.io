@@ -4,6 +4,7 @@ import Navigation from '../Navigation/Navigation';
 import Header from '../Header/Header';
 import About from '../About/About';
 import Footer from '../Footer/Footer';
+import Work from '../Work/Work';
 
 class App extends Component {
   render() {
@@ -12,8 +13,8 @@ class App extends Component {
         <Navigation />
         <Header />
         <About />
-        {/* <Work />
-        <Skills />
+        <Work />
+        {/* <Skills />
         <Contact /> */}
         <Footer />
       </Fragment>
