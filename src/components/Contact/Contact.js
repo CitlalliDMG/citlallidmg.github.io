@@ -13,13 +13,13 @@ const Contact = () => {
               <i className="fa fa-envelope"></i>
             </a>
             <a href="https://github.com/CitlalliDMG" target="_blank" rel="noopener noreferrer">
-              <i className="fa fa-github"></i>
+              <i className="fab fa-github"></i>
             </a>
             <a href="https://www.linkedin.com/in/citlallidmg/" target="_blank" rel="noopener noreferrer">
-              <i className="fa fa-linkedin"></i>
+              <i className="fab fa-linkedin"></i>
             </a>
             <a href="https://www.behance.net/CitlalliDMG" target="_blank" rel="noopener noreferrer">
-              <i className="fa fa-behance-square"></i>
+              <i className="fab fa-behance-square"></i>
             </a>
           </p>
       </div>

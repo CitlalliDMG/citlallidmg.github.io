@@ -5,6 +5,7 @@ import Header from '../Header/Header';
 import About from '../About/About';
 import Footer from '../Footer/Footer';
 import Work from '../Work/Work';
+import Skills from '../Skills/Skills';
 import Contact from '../Contact/Contact';
 
 class App extends Component {
@@ -15,7 +16,7 @@ class App extends Component {
         <Header />
         <About />
         <Work />
-        {/* <Skills /> */}
+        <Skills />
         <Contact />
         <Footer />
       </Fragment>

@@ -1,0 +1,40 @@
+#skills {
+  height: auto;
+  margin-bottom: 2em;
+}
+
+#skills h2 {
+  text-transform: uppercase;
+  color: #682c86;
+}
+
+#skills hr {
+  border-width: 0.3em;
+  max-width: 50%;
+}
+
+.skills-title {
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  border: 2px solid #5ab366;
+  padding: 1em 0;
+  margin-bottom: 1em;
+}
+
+.card i {
+  font-size: 3em;
+  text-align: center;
+  color: #682c86;
+  margin-bottom: 0.5em;
+}
+
+.card ul {
+  list-style: none;
+  padding-left: 0;
+}
