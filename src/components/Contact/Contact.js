@@ -7,7 +7,7 @@ const Contact = () => {
       <div className="container text-right">
           <h2>Contacto</h2>
           <hr align="right"/>
-          <p className="contact-text offset-6">¿Buscas una desarrolladora? ¿Tienes comentarios o preguntas? Estaría feliz de saber de ti cualquiera que sea la razón</p>
+          <p className="contact-text offset-md-6">¿Buscas una desarrolladora? ¿Tienes comentarios o preguntas? Estaría feliz de saber de ti cualquiera que sea la razón</p>
           <p className="icons">
             <a href="mailto:citlallidmg@gmail.com">
               <i className="fa fa-envelope"></i>
