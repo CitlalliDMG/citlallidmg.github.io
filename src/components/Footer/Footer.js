@@ -1,14 +1,27 @@
-import React from 'react';
-import './Footer.css';
+import React from "react";
+import "./Footer.css";
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className="pt-3">
       <div className="container">
-        <p>Copyright <i className="far fa-copyright"></i> 2018 Ana Citlalli Del Moral Guerrero</p>
+        <p className="license">
+          Ana Citlalli Del Moral Guerrero,
+          <a
+            rel="license"
+            href="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            className="ml-1 mr-1"
+          >
+            <i className="fab fa-creative-commons" />{" "}
+            <i className="fab fa-creative-commons-by" />{" "}
+            <i className="fab fa-creative-commons-nc" />{" "}
+            <i className="fab fa-creative-commons-nd" />
+          </a>
+          2018
+        </p>
       </div>
     </footer>
-   );
-}
+  );
+};
 
 export default Footer;
