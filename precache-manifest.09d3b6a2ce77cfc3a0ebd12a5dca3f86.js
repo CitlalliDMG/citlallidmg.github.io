@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/portada_labdash.0c1629de.png"
   },
   {
-    "revision": "c3929c003a4e2c27e410",
-    "url": "/static/css/main.1d5d5fba.chunk.css"
+    "revision": "c952768fad1f9de7b3b3",
+    "url": "/static/css/main.c9c4b318.chunk.css"
   },
   {
     "revision": "0dcca1b3dfdc2b37fb414858dab38f32",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/about_Citlalli_Del_Moral_1.e1e89ef4.png"
   },
   {
-    "revision": "c3929c003a4e2c27e410",
-    "url": "/static/js/main.c3929c00.chunk.js"
+    "revision": "c952768fad1f9de7b3b3",
+    "url": "/static/js/main.c952768f.chunk.js"
   },
   {
     "revision": "803711cb8e24f9ae57cd4936f581cc8c",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.555996d8.chunk.css"
   },
   {
-    "revision": "a243e845f03e0fc3ce975b7a58eb5982",
+    "revision": "fcd3c61610949ec9e2462c958c25deb7",
     "url": "/index.html"
   }
 ];
