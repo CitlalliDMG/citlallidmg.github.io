@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <footer className="pt-3">
+    <footer className="pt-3 footer">
       <div className="container">
         <p className="license">
           Ana Citlalli Del Moral Guerrero,

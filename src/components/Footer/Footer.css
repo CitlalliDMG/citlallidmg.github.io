@@ -26,3 +26,10 @@ footer {
     margin-left: auto;
   }
 }
+
+@media (max-width: 767.98px) {
+  .footer {
+    visibility: hidden;
+    display: none;
+  }
+}

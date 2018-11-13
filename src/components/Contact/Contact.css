@@ -1,7 +1,8 @@
 .contact {
   height: auto;
   background-color: #5ab366;
-  margin-bottom: 60px;
+  margin-bottom: 56px;
+  margin-top: 10vh;
   padding-bottom: 1em;
 }
 
@@ -36,7 +37,13 @@
 
 @media (max-width:575.98px) {
   .icons i {
-    padding-left: 1em;
+    padding-left: 0.5em;
     font-size: 2.5em;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .contact {
+    margin-bottom: 0;
   }
 }
