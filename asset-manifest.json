@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.a4a98c0c.chunk.css",
-  "main.js": "/static/js/main.640b26b4.chunk.js",
-  "main.js.map": "/static/js/main.640b26b4.chunk.js.map",
+  "main.css": "/static/css/main.10f8c210.chunk.css",
+  "main.js": "/static/js/main.cef1de36.chunk.js",
+  "main.js.map": "/static/js/main.cef1de36.chunk.js.map",
   "static/css/1.eb34f995.chunk.css": "/static/css/1.eb34f995.chunk.css",
   "static/js/1.20be0c28.chunk.js": "/static/js/1.20be0c28.chunk.js",
   "static/js/1.20be0c28.chunk.js.map": "/static/js/1.20be0c28.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/portada_chipinque.png": "/static/media/portada_chipinque.57af6a7a.png",
   "static/media/Header.css": "/static/media/intro_background.0dcca1b3.png",
   "static/media/about_Citlalli_Del_Moral_1.png": "/static/media/about_Citlalli_Del_Moral_1.e1e89ef4.png",
-  "static/css/main.a4a98c0c.chunk.css.map": "/static/css/main.a4a98c0c.chunk.css.map",
+  "static/css/main.10f8c210.chunk.css.map": "/static/css/main.10f8c210.chunk.css.map",
   "static/css/1.eb34f995.chunk.css.map": "/static/css/1.eb34f995.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.076f80fd124727ccf2887b477ab370d2.js": "/precache-manifest.076f80fd124727ccf2887b477ab370d2.js",
+  "precache-manifest.bfe3446b462fc81088175e18d5189571.js": "/precache-manifest.bfe3446b462fc81088175e18d5189571.js",
   "service-worker.js": "/service-worker.js"
 }
