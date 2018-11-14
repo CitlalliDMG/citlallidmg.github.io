@@ -29,7 +29,10 @@ footer {
 
 @media (max-width: 767.98px) {
   .footer {
-    visibility: hidden;
-    display: none;
+    position: inherit;
+  }
+
+  .footer p {
+    margin-bottom: 0;
   }
 }

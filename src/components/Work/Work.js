@@ -16,7 +16,7 @@ const Work = () => {
         <div className="responsive">
           <div className="gallery">
             <img src={lux} alt="portada_proyecto_lux" className="image" width="600" height="400"/>
-            <div className="middle">
+            <div className="middle desktop">
               <a className="link" target="_blank" rel="noopener noreferrer" href="https://citlallidmg.github.io/cdmx-2018-06-bc-core-am-social-network/src/index.html">Demo</a>
               <a className="link" target="_blank" rel="noopener noreferrer" href="https://github.com/CitlalliDMG/cdmx-2018-06-bc-core-am-social-network">GitHub</a>
             </div>
