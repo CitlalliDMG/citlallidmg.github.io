@@ -4,6 +4,7 @@ import './Contact.css';
 const Contact = () => {
   return (
     <section className="contact" id="contact">
+      <span id="contact-anchor" className="fix-nav-height"> &nbsp; </span>
       <div className="container text-right">
           <h2>Contacto</h2>
           <hr align="right"/>

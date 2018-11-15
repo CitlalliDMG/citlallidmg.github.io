@@ -5,6 +5,7 @@ import profile from '../../assets/about_Citlalli_Del_Moral_1.png';
 const About = () => {
   return (
     <section className="container" id="about">
+      <span id="about-anchor" className="fix-nav-height"> &nbsp; </span>
       <div className="row">
         <div className="about-text col-lg-6">
           <h2>Acerca de mí</h2>

@@ -57,27 +57,27 @@ class Navigation extends Component {
         >
           <ul className="nav navbar-nav ml-auto">
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#home">
+              <a className="nav-link js-scroll-trigger" href="#home-anchor">
                 Inicio
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#about">
+              <a className="nav-link js-scroll-trigger" href="#about-anchor">
                 Sobre mí
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#work">
+              <a className="nav-link js-scroll-trigger" href="#work-anchor">
                 Proyectos
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#skills">
+              <a className="nav-link js-scroll-trigger" href="#skills-anchor">
                 Habilidades
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#contact">
+              <a className="nav-link" href="#contact-anchor">
                 Contacto
               </a>
             </li>

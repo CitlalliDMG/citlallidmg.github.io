@@ -17,3 +17,9 @@ code {
 .bold {
   font-weight: bolder;
 }
+
+.fix-nav-height {
+  margin-top: -56px;        /* Size of fixed header */
+  padding-bottom: 56px;
+  display: block;
+}

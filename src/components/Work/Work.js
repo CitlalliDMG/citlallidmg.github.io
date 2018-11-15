@@ -11,6 +11,7 @@ import chipinque from '../../assets/portada_chipinque.png';
 const Work = () => {
   return (
     <section className="work" id="work">
+      <span id="work-anchor" className="fix-nav-height"> &nbsp; </span>
       <h2>Proyectos</h2>
       <div className="container">
         <hr/>

@@ -1,5 +1,5 @@
 .intro {
-  padding-top: 65px;
+  margin: -28px 0;
   height: 50vh;
   background: url(../../assets/intro_background.png) no-repeat 35% 65% scroll;
   display: flex;

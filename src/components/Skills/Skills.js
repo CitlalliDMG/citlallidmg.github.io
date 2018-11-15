@@ -4,6 +4,7 @@ import './Skills.css';
 const Skills = () => {
   return (
     <section className="container" id="skills">
+      <span id="skills-anchor" className="fix-nav-height"> &nbsp; </span>
       <h2>Conocimientos y habilidades</h2>
       <hr align="left"/>
       <div className="row">

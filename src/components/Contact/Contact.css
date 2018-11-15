@@ -2,14 +2,14 @@
   height: auto;
   background-color: #5ab366;
   margin-bottom: 56px;
-  margin-top: 10vh;
+  margin-top: 25vh;
   padding-bottom: 1em;
 }
 
 .contact h2 {
   text-transform: uppercase;
   color: #ffffff;
-  padding-top: 1em;
+  margin-top: -28px;
 }
 
 .contact hr{
