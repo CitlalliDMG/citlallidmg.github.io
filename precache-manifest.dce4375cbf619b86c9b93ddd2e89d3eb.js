@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/portada_labdash.0c1629de.png"
   },
   {
-    "revision": "0f6b8866eecb3df7e4b2",
-    "url": "/static/css/main.eb10259c.chunk.css"
+    "revision": "439babfabbbd75ce364b",
+    "url": "/static/css/main.88a32e1a.chunk.css"
   },
   {
     "revision": "0dcca1b3dfdc2b37fb414858dab38f32",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/static/media/about_Citlalli_Del_Moral_1.e1e89ef4.png"
   },
   {
-    "revision": "0f6b8866eecb3df7e4b2",
-    "url": "/static/js/main.0f6b8866.chunk.js"
+    "revision": "439babfabbbd75ce364b",
+    "url": "/static/js/main.439babfa.chunk.js"
   },
   {
-    "revision": "ea9c0ac0d3456bdc2cb43e97fb52530b",
-    "url": "/static/media/portada_burger_queen.ea9c0ac0.png"
+    "revision": "bca611fae9e9e042c42d6b2872554cd4",
+    "url": "/static/media/portada_burger_queen.bca611fa.png"
   },
   {
     "revision": "d3207adaae9203015bdf2167fac88122",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.eb34f995.chunk.css"
   },
   {
-    "revision": "076610f9999caaa5fbbe2f771bf00110",
+    "revision": "51c57df21ab878e019b6e44885f4cf2e",
     "url": "/index.html"
   }
 ];
