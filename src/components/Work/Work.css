@@ -33,6 +33,7 @@
 .image {
   width: 90%;
   height: auto;
+  max-height: 160px;
   margin: 0 auto 1em auto;
   border: 1px solid #d3d3d3;
 }
